@@ -1,4 +1,4 @@
 # repo-demo
 This is my first Git repository
 <br>
-Author-Pranav Amale
+Author-Pranav Amale.
